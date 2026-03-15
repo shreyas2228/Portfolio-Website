@@ -24,3 +24,6 @@ module.exports = {
 
 // For a detailed explanation of each configuration property, visit: https://eslint.org/docs/latest/use/configure/options
 // For a detailed explanation of each React-specific rule, visit: https://eslint.org/docs/latest/use/rules/react
+// For a detailed explanation of each React Hooks-specific rule, visit: https://eslint.org/docs/latest/use/rules/react-hooks
+// For a detailed explanation of each React Refresh-specific rule, visit: https://eslint.org/docs/latest/use/rules/react-refresh
+  
