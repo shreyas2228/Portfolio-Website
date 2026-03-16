@@ -1,5 +1,7 @@
 # Shreyas 3D Portfolio
 
+<!-- this is a premium developer portfolio with a dark futuristic visual language, interactive 3D hero environment, GSAP scroll choreography, and a polished recruiter-first project narrative. -->
+
 A premium developer portfolio with a dark futuristic visual language, interactive 3D hero environment, GSAP scroll choreography, and a polished recruiter-first project narrative.
 
 ## Tech Stack
