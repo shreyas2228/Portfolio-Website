@@ -125,4 +125,4 @@ npm run preview
 # Portfolio-Website
 
 
-<!-- this  -->
+<!-- this  is a premium developer portfolio with a dark futuristic visual language, interactive 3D hero environment, GSAP scroll choreography, and a polished recruiter-first project narrative. -->
