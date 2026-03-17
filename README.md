@@ -123,3 +123,6 @@ npm run preview
 - Hero/project imagery uses native `loading="lazy"` where appropriate.
 - Motion is GPU-friendly and tuned for smooth scrolling.
 # Portfolio-Website
+
+
+<!-- this  -->
