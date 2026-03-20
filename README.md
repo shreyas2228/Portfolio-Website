@@ -2,7 +2,11 @@
 
 <!-- this is a premium developer portfolio with a dark futuristic visual language, interactive 3D hero environment, GSAP scroll choreography, and a polished recruiter-first project narrative. -->
 <!-- fullscreen section -->
+
+<!--  -->
 A premium developer portfolio with a dark futuristic visual language, interactive 3D hero environment, GSAP scroll choreography, and a polished recruiter-first project narrative.
+
+<!-- tech stack section -->
 
 ## Tech Stack
 
